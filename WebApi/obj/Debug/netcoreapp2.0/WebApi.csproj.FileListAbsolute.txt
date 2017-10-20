@@ -1,0 +1,10 @@
+/Users/jared.roberts/Repositories/JWT/WebApi/bin/Debug/netcoreapp2.0/WebApi.deps.json
+/Users/jared.roberts/Repositories/JWT/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.json
+/Users/jared.roberts/Repositories/JWT/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.dev.json
+/Users/jared.roberts/Repositories/JWT/WebApi/bin/Debug/netcoreapp2.0/WebApi.dll
+/Users/jared.roberts/Repositories/JWT/WebApi/bin/Debug/netcoreapp2.0/WebApi.pdb
+/Users/jared.roberts/Repositories/JWT/WebApi/obj/Debug/netcoreapp2.0/WebApi.csproj.CoreCompileInputs.cache
+/Users/jared.roberts/Repositories/JWT/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfoInputs.cache
+/Users/jared.roberts/Repositories/JWT/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfo.cs
+/Users/jared.roberts/Repositories/JWT/WebApi/obj/Debug/netcoreapp2.0/WebApi.dll
+/Users/jared.roberts/Repositories/JWT/WebApi/obj/Debug/netcoreapp2.0/WebApi.pdb
